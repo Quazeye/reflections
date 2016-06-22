@@ -22,3 +22,11 @@ github.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I could compare changes to see if there are conflicts.
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We would send code to each other and have comments about changes in the code.  It would be harder because
+it is a manual process.  It could be easier in the fact that we wouldn't have to figure out how to use
+github.

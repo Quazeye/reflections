@@ -8,3 +8,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I would have more control over which files or branches are in sync.  I may not want to have every commit synced
 all the time.
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is used if you want to make changes to a repository but not mess up the original.  A clone is a copy of a 
+repository either coming from a remote or from your own computer.  A fork is a copy of someone elses repository on
+github.
